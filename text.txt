@@ -1,1 +1,2 @@
-Name: Rahim
+firstName: Rahim
+lastName: Mammadov
